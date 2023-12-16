@@ -2,7 +2,7 @@
   <samp>
     <b>
         <br>hi
-        <br>.py .js .html .css .bat
+        <br>.py .rs .js .html .css .bat
         <br>react tailwind sql
     </b>
   </samp>
